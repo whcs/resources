@@ -9,3 +9,4 @@ _(Descriptions TBA)_
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) - Well-crafted documentation for web technologies including HTML, CSS, and JavaScript
 - [Hack Club Workshops](http://workshops.hackclub.com/) ([alt](https://workshops.bulckcah.com/)) - Short workshops and tutorials created by high schoolers, for high schoolers
 - [GitHub Student Developer Pack](https://education.github.com/pack) - Discounts and benefits for student developers for hosting, domains, online courses, and more
+- [Figma](https://figma.com/) - Online, collaborative design tool to create mockups, prototypes, wireframes, posters - practically anything related to design!
